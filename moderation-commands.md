@@ -25,7 +25,7 @@ Kick Command:
 
 ```text
 Warn Command:
-/warn <user> <reason>
+/warn <action> <user> [reason]
 ```
 
 ### Purge Message

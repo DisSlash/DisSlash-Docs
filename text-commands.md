@@ -35,6 +35,13 @@ Who Is Command:
 /whois <user>
 ```
 
+### Notepad
+
+```text
+Notepad Command:
+/notepad <action> <name> [content of note]
+```
+
 ### Google
 
 ```text
